@@ -7,7 +7,7 @@ Andmebaasidega seotud SQL kood ja konspektid
 
 
 ### tunnis me kasutame andmebaasihaldussüsteemid:
-1. SQL Server Managment Stuudio (SQL Serveri haldamiseks)<img width="471" height="507" alt="{C73DCDCC-4A3D-400B-86F1-9237B6A77B63}" src="https://github.com/user-attachments/assets/df5ea39f-3ed5-4d95-ad53-20ab4e6e1cd3" />
+1. SQL Server Managment Stuudio (SQL Serveri haldamiseks)<img width="400" height="450" alt="{C73DCDCC-4A3D-400B-86F1-9237B6A77B63}" src="https://github.com/user-attachments/assets/df5ea39f-3ed5-4d95-ad53-20ab4e6e1cd3" />
 
 2. XAMPP -phypmyAdmin (mariaDB andmebaas) -vabavara
 
@@ -34,3 +34,10 @@ Andmebaasidega seotud SQL kood ja konspektid
 4. Not Null
 5. Check
 ```
+
+## Tabelivahelised Seosed
+- üks - ühele (nt mees --naine)
+- üks -mitmele (õpilane käib erinevates õppeainetes)
+  <img width="486" height="215" alt="{39FE7350-E233-450B-B521-76A263E421A5}" src="https://github.com/user-attachments/assets/7818b5a7-def5-4714-8541-f3f6b9a28f2b" />
+
+- mitu - mitmele (nt õpilane - õpetaja)
