@@ -40,4 +40,6 @@ Andmebaasidega seotud SQL kood ja konspektid
 - üks -mitmele (õpilane käib erinevates õppeainetes)
   <img width="486" height="215" alt="{39FE7350-E233-450B-B521-76A263E421A5}" src="https://github.com/user-attachments/assets/7818b5a7-def5-4714-8541-f3f6b9a28f2b" />
 
+<img width="468" height="144" alt="{FD4D2182-1A07-42FA-8E1D-2BD59928FECF}" src="https://github.com/user-attachments/assets/1ae98d86-b36a-4185-b7ef-e27e6fbbbda2" />
+
 - mitu - mitmele (nt õpilane - õpetaja)
