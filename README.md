@@ -3,7 +3,8 @@ Andmebaasidega seotud SQL kood ja konspektid
 
 
 ### tunnis me kasutame andmebaasihaldussüsteemid:
-1. SQL Server Managment Stuudio (SQL Serveri haldamiseks)
+1. SQL Server Managment Stuudio (SQL Serveri haldamiseks)<img width="471" height="507" alt="{C73DCDCC-4A3D-400B-86F1-9237B6A77B63}" src="https://github.com/user-attachments/assets/df5ea39f-3ed5-4d95-ad53-20ab4e6e1cd3" />
+
 2. XAMPP -phypmyAdmin (mariaDB andmebaas) -vabavara
 
   ## Põhimõisted
