@@ -1,4 +1,4 @@
---Tabeli struktuuri muutmine
+--Tabeli Struktuuri muutmine
 
 --uues veeru lisamine
 ALTER TABLE opilane ADD telefon varchar(1);
