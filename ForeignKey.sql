@@ -8,7 +8,7 @@ hinne int)
 Select * from opilane;
 Select * from opilaneTunnis;
 
---lisame andmeid opilanetunnis tabelisse
+--lisame Andmeid opilanetunnis tabelisse
 INSERT INTO opilaneTunnis
 VALUES ('2025-04-14', 2, 'keemia', 4);
 
