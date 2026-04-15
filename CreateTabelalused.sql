@@ -1,6 +1,6 @@
 create database Valtin;
 use Valtin;
---tabeli loomine
+--tabeli Loomine
 CREATE TABLE opilane(
 opilaneId int Primary Key identity(1,1),
 eesnimi varchar(25),
