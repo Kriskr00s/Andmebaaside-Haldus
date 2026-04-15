@@ -1,4 +1,4 @@
---TEST KOHT
+--TEST koht
 
 CREATE TABLE opetaja(
 opetajaId int Primary Key identity(1,1),
