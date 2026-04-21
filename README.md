@@ -46,7 +46,36 @@ Andmebaasidega seotud SQL kood ja konspektid
 - üks - ühele (nt mees --naine)
 - üks -mitmele (õpilane käib erinevates õppeainetes)
   <img width="486" height="215" alt="{39FE7350-E233-450B-B521-76A263E421A5}" src="https://github.com/user-attachments/assets/7818b5a7-def5-4714-8541-f3f6b9a28f2b" />
-
 <img width="468" height="144" alt="{FD4D2182-1A07-42FA-8E1D-2BD59928FECF}" src="https://github.com/user-attachments/assets/1ae98d86-b36a-4185-b7ef-e27e6fbbbda2" />
 
 - mitu - mitmele (nt õpilane - õpetaja)
+
+## Stored procedure
+  Salvestatud protsetuurid - sama mis on funktsioonid programeerimises - mingid tegevused mida saab automaatselt teha (INSERT, SELECT, UPDATE, DELETE)
+```sql
+select * from categories;
+--protseduur, mis täidab tabeli
+CREATE PROCEDURE lisaKategooria
+@nimi varchar(15)
+AS
+BEGIN
+	INSERT INTO categories
+	VALUES (@nimi);
+	SELECT * FROM categories;
+END
+--kutse
+EXEC lisaKategooria 'test2'
+
+--protseduur, mis kustutab tabelist id järgi
+Create procedure kustutaIdJärgi
+@id int
+AS
+BEGIN
+	SELECT * FROM categories;
+	DELETE FROM categories WHERE category_id=@id;
+	SELECT * FROM categories;
+END
+--kutse
+EXEC kustutaIdjärgi 6;
+```
+  
