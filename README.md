@@ -78,4 +78,7 @@ END
 --kutse
 EXEC kustutaIdjärgi 6;
 ```
+
+<img width="699" height="341" alt="{74441263-F4A0-49CE-8385-38AF59141AFD}" src="https://github.com/user-attachments/assets/74f8c730-e374-45f6-b919-3c12ea29231c" />
+
   
