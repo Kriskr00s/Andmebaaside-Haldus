@@ -113,22 +113,3 @@ UPDATE	Muutmine
 DELETE	Kustutamine
 
 <img width="531" height="574" alt="{4DAC0B32-8345-47DD-9693-A6FAECDDF121}" src="https://github.com/user-attachments/assets/abb4e8e9-ab7f-45f2-aee1-5ca1dc316faa" />
-
-    
-Ülesanne 1:
-Luua andmebaas: MovieBase
-
-Luua tabelid: 
-
-movies (id, moviesNimi, moviesYear, movieDir и movieCost).
-guest (id, name)
-Lisada vähemalt 7 kirjet.
-
-Luua kasutaja Produtsent parooliga director, kellel on järgmised õigused:
-Õigus vaadata ja uuendada tabeli movies välju movieDir ja movieCost + lisada üks enda valitud privileeg.
-Õigus vaadata ja lisada kirjeid tabelisse guest.
-Keela andmete kustutamine tabelis.
-Vihje! UPDATE õigused parem lubada SQL käsuga
-GRANT UPDATE (movieCost, movieDir)
-ON movies
-TO Produtsent;
