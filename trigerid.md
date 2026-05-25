@@ -161,5 +161,44 @@ VALUES ('Narva', 'Venelased', 257354);
 ```
 <img width="546" height="231" alt="{F38DAFBA-343E-4582-93A8-4FCE9BB42F98}" src="https://github.com/user-attachments/assets/6f54ea87-c9ff-44e1-904c-e86ab03ec61b" />
 
+## XAMPP / päästikud
+
+Linna lisamine
+
+<img width="411" height="307" alt="{D81FE562-7DB0-4D5C-B7DF-A48906A47676}" src="https://github.com/user-attachments/assets/2276eb3b-7d90-4a43-a80e-677b3df3b99d" />
+
+1.Kontroll
+
+<img width="567" height="181" alt="{02A0EFDE-DBCB-436C-A58B-650C320D21DD}" src="https://github.com/user-attachments/assets/6b8f73f4-867d-4f3f-ba38-3d3500b095a5" />
+
+2.
+
+<img width="661" height="87" alt="{ACB6C714-AA04-4B89-94CB-757A4FFBD37A}" src="https://github.com/user-attachments/assets/5ecae082-f5a5-4417-890b-2e9d6bfd3489" />
+
+Linna kustutamine
+
+<img width="423" height="329" alt="{3A2DFBB6-71C7-47E0-AA66-72D32FD35E70}" src="https://github.com/user-attachments/assets/7bae74e2-a2ff-4485-8e6c-1db3dcba8d0f" />
+
+1.Kontroll
+
+<img width="486" height="104" alt="{FCAD13B2-0D05-4E9F-9798-C02CFC3E8774}" src="https://github.com/user-attachments/assets/c408e975-a621-4475-b447-e81f464fca7d" />
+
+2.
+
+<img width="678" height="32" alt="{ECEEF825-9C22-4D7E-88F0-F55A38B12A12}" src="https://github.com/user-attachments/assets/cb40e5fb-7b27-4482-b69a-9719559d4a6f" />
+
+Linna Update
+
+<img width="475" height="359" alt="{097ED2AD-029E-4F2C-8ADF-7C5BF20B1447}" src="https://github.com/user-attachments/assets/b3cbccf7-52b0-4794-baee-e6ac575073c6" />
+
+1.Kontroll
+
+<img width="726" height="84" alt="{87D62B26-1F8F-4C9B-887D-839D4AFFE8A0}" src="https://github.com/user-attachments/assets/8b13d54d-1a47-47e3-8e27-0ec889b719ae" />
+
+Kasutaja tulemused
+
+<img width="721" height="264" alt="{1EBFBEA3-0676-4E2B-854D-1750D7D51879}" src="https://github.com/user-attachments/assets/46244bf4-fe9e-47ca-9bf6-f27662a7d1d7" />
+
+
 
 
