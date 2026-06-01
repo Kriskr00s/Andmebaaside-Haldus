@@ -141,10 +141,18 @@ Milleks kasutatakse: Kasutatakse unikaalsuse tagamiseks ja alternatiivseks otsin
 Erinevus teistest: See on otseselt "hõbemedali omanik". Kui tabelis on kandidaadid KasutajaID ja Epost ning esimesest saab Primary Key, siis Epost on automaatselt Alternate Key.
 
 ```sql
--- Vaata eelmist 'Kasutajad' tabelit:
--- KasutajaID -> Primary Key
--- Epost ja Telefon -> Alternate Keys (kuna nad on unikaalsed kandidaadid, mis jäid üle)
+select * From Autod
+select * From Kasutajad
+select * From Kliendid
+select * From KursuseOsalemine
+select * From Projektid
+select * From Raamatud
+select * From Tellimused
+select * From Tootajad
+select * From TootajaProjekt
 ```
+<img width="302" height="724" alt="{60FCC19B-CAA6-4309-B499-032AB5383D88}" src="https://github.com/user-attachments/assets/43fa4c88-90ec-4168-b796-74e487c99fd7" />
+
 
 <img width="770" height="487" alt="{8923AF72-9776-4573-BB85-24ABA5BCE79C}" src="https://github.com/user-attachments/assets/ea4e8f0a-c7c6-4fd6-ba0c-884755665b00" />
 
