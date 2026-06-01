@@ -56,6 +56,19 @@ SELECT * FROM v_TootajateTellimused;
 ```
 <img width="355" height="145" alt="{986B2F0D-089A-459A-B67D-71371F460598}" src="https://github.com/user-attachments/assets/bea3b56d-eca3-424d-bb2b-7e2ae23bd485" />
 
+```sql
+CREATE VIEW v_LendudeInfo AS
+SELECT 
+    LendID,
+    LennuNumber,
+    Väljumisaeg,
+    LennujaamNimi AS [Lennujaama Nimi],
+    Linn
+FROM Lend
+INNER JOIN Lennujaam ON Lend.FK_LennujaamID = Lennujaam.LennujaamID;
+SELECT * FROM v_LendudeInfo;
+```
+
 Vaate kustutamine
 Kui vaadet pole enam vaja, saab selle andmebaasist eemaldada järgmise käsuga:
 
