@@ -1,4 +1,8 @@
 ## SQL Server – Kasutajate autentimine ja õiguste haldamine
+ [Select laused](select.md) 
+[Triqerid](trigerid.md) 
+[Võtmed](keys.md) 
+[Kasutaja](kasutaja.md) 
 Mis on autentimine SQL Serveris?
  ### Autentimine tähendab kasutaja tuvastamist ehk kontrollimist, kas kasutajal on õigus SQL Serverisse sisse logida.
 
