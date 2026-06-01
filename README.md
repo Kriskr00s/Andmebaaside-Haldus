@@ -9,6 +9,7 @@ Andmebaasidega seotud SQL kood ja konspektid
  [Select laused](select.md) 
 [Triqerid](trigerid.md) 
 [Võtmed](keys.md) 
+[Kasutaja](kasutaja.md) 
 
 
  
