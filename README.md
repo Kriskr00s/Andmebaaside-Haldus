@@ -10,6 +10,7 @@ Andmebaasidega seotud SQL kood ja konspektid
 [Triqerid](trigerid.md) 
 [Võtmed](keys.md) 
 [Kasutaja](kasutaja.md) 
+[testi küsimused](kysimused.md) 
 
 
  
