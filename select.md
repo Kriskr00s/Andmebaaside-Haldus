@@ -1,10 +1,13 @@
 ## Select laused
- [Select laused](select.md) |
-[Triqerid](trigerid.md) |
-[Võtmed](keys.md) |
-[Kasutaja](kasutaja.md) |
-[Moodle test](kysimused.md) |
-[Protseduurid](Brand_Procedure.md) |
+| Teemad ja materjalid |
+| :--- |
+| [SELECT laused](select.md) |
+| [Trigerid](trigerid.md) |
+| [Andmebaasi võtmed](keys.md) |
+| [Kasutajate haldus](kasutaja.md) |
+| [Moodle testid ja küsimused](kysimused.md) |
+| [Salvestatud protseduurid](Brand_Procedure.md) |
+| [Andmebaasi vaated (Views)](vaade.md) |
 
 <img width="816" height="360" alt="{AD209C1C-81BE-4420-A2F9-37169B96C125}" src="https://github.com/user-attachments/assets/81893103-6e9e-4ca6-82dc-22f1e6ef7d97" />
 
