@@ -1,8 +1,10 @@
 # Andmebaasi võtmed (Keys)
- [Select laused](select.md) 
-[Triqerid](trigerid.md) 
-[Võtmed](keys.md) 
-[Kasutaja](kasutaja.md) 
+ [Select laused](select.md) |
+[Triqerid](trigerid.md) |
+[Võtmed](keys.md) |
+[Kasutaja](kasutaja.md) |
+[Moodle test](kysimused.md) |
+[Protseduurid](Brand_Procedure.md) |
 
 Andmebaasi võtmed on atribuudid (veerud) või atribuutide kombinatsioonid, mida kasutatakse tabelis ridade unikaalseks tuvastamiseks, andmete tervikluse tagamiseks ja tabelitevaheliste seoste loomiseks.
 
