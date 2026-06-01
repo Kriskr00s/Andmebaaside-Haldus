@@ -1,4 +1,5 @@
 ## Triger - trigger - päästik
+
 | Teemad ja materjalid |
 | :--- |
 | [SELECT laused](select.md) |
@@ -8,6 +9,7 @@
 | [Moodle testid ja küsimused](kysimused.md) |
 | [Salvestatud protseduurid](Brand_Procedure.md) |
 | [Andmebaasi vaated (Views)](vaade.md) |
+
 ### triger - andmebaasi objekt, mis käivitud automaatselt,  kui toimub teatud sündmus (nt INSERT, DELETE, UPDATE)
 trigerite loomine automatiseerib protsessid SQL serveris
 
