@@ -1,4 +1,10 @@
 ## Iseseisvalt 3 protseduuri
+ [Select laused](select.md) |
+[Triqerid](trigerid.md) |
+[Võtmed](keys.md) |
+[Kasutaja](kasutaja.md) |
+[Moodle test](kysimused.md) |
+[Protseduurid](Brand_Procedure.md) |
 ```sql
 CREATE PROCEDURE BrandLisa
 
