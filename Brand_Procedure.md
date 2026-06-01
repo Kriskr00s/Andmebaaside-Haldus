@@ -1,4 +1,5 @@
 ## Iseseisvalt 3 protseduuri
+
 | Teemad ja materjalid |
 | :--- |
 | [SELECT laused](select.md) |
@@ -8,6 +9,7 @@
 | [Moodle testid ja küsimused](kysimused.md) |
 | [Salvestatud protseduurid](Brand_Procedure.md) |
 | [Andmebaasi vaated (Views)](vaade.md) |
+
 ```sql
 CREATE PROCEDURE BrandLisa
 
