@@ -1,3 +1,9 @@
+ [Select laused](select.md) 
+[Triqerid](trigerid.md) 
+[Võtmed](keys.md) 
+[Kasutaja](kasutaja.md) 
+[testi küsimused](kysimused.md) 
+
 DDL
 
 <img width="960" height="341" alt="{E285E743-9D10-4457-9812-C725D6C9A2E4}" src="https://github.com/user-attachments/assets/cc7b5db9-b773-4f0a-a83e-fe0292266a9e" />
