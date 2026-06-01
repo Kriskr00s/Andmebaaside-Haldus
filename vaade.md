@@ -1,4 +1,13 @@
 # Andmebaasi vaated (Views)
+| Teemad ja materjalid |
+| :--- |
+| [SELECT laused](select.md) |
+| [Trigerid](trigerid.md) |
+| [Andmebaasi võtmed](keys.md) |
+| [Kasutajate haldus](kasutaja.md) |
+| [Moodle testid ja küsimused](kysimused.md) |
+| [Salvestatud protseduurid](Brand_Procedure.md) |
+| [Andmebaasi vaated (Views)](vaade.md) |
 
 Vaade (View) on virtuaalne tabel, mille sisu põhineb SQL-päringu (SELECT) tulemusel. Vaade ei sisalda füüsiliselt andmeid, vaid kuvab reaalajas andmeid teistest tabelitest.
 
