@@ -1,4 +1,4 @@
-# Andmebaaside-Haldus
+# Andmebaaside-Haldus porfoolio LOGITpe24
 Andmebaasidega seotud SQL kood ja konspektid
 
 - SQL - Structured Query Language - strukteeritud päringukeel
@@ -6,8 +6,14 @@ Andmebaasidega seotud SQL kood ja konspektid
 - DML - Data Manipulation Language -andmete lisamine ja uuendamine tabelis - INSERT, UPDATE, DELETE
 
   ## Sisukord
-  - [andmebaasihaldussüsteemid](#-andmebaasihaldussüsteemid)
-  - [Põhimõisted](#-Põhimõisted)
+ [Select laused](select.md) 
+[Triqerid](trigerid.md) 
+[Võtmed](keys.md) 
+
+
+ 
+ - [andmebaasihaldussüsteemid](#-andmebaasihaldussüsteemid)
+ - [Põhimõisted](#-Põhimõisted)
   - [Andmetüübid](#-Andmetüübid)
   - [Piirangud](#-Piirangud)
   - [Tabelivahelised Seosed](#-tabelivahelised-Seosed)
