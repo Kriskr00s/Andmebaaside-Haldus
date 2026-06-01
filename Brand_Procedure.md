@@ -1,4 +1,5 @@
---Iseseisvalt 3 protseduuri
+## Iseseisvalt 3 protseduuri
+```sql
 CREATE PROCEDURE BrandLisa
 
 @brand_name varchar(25)
@@ -11,8 +12,8 @@ BEGIN
 END
 --kutse
 EXEC BrandLisa'testbrand2'
-
-
+```
+```sql
 Create procedure kustutaIdBrand
 @id int
 AS
@@ -23,8 +24,9 @@ BEGIN
 END
 --kutse
 EXEC kustutaIdBrand 5;
+```
 
-
+```sql
 CREATE PROCEDURE otsing1brandtaht
 @taht char(1)
 AS
@@ -35,4 +37,5 @@ BEGIN
 END
 --kutse
 SELECT * FROM brands
-EXEC otsing1brandtaht 'R' 
+EXEC otsing1brandtaht 'R'
+```
