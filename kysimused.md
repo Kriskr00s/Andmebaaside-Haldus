@@ -1,8 +1,9 @@
- [Select laused](select.md) 
-[Triqerid](trigerid.md) 
-[Võtmed](keys.md) 
-[Kasutaja](kasutaja.md) 
-[testi küsimused](kysimused.md) 
+ [Select laused](select.md) |
+[Triqerid](trigerid.md) |
+[Võtmed](keys.md) |
+[Kasutaja](kasutaja.md) |
+[Moodle test](kysimused.md) |
+[Protseduurid](Brand_Procedure.md) |
 
 DDL
 
